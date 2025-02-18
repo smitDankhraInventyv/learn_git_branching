@@ -1,6 +1,6 @@
-# level intro1
+# level 1 - Introduction Sequence
 
-## Introduction to Git Commits
+## 1: Introduction to Git Commits
 
 ### steps
 ```
@@ -9,7 +9,7 @@ git commit
 ```
 ![l1_a](https://github.com/user-attachments/assets/4a12203e-6469-47d2-8463-a6f3ea5857ac)
 
-## Branching in Git
+## 2: Branching in Git
 
 ### steps
 ```
@@ -20,7 +20,7 @@ git commit
 ![l1_b](https://github.com/user-attachments/assets/bcd3cc73-d987-4059-8b5c-6b9efb339856)
 
 
-## Merging in Git
+## 3: Merging in Git
 ### steps
 ```
 git branch bugFix
